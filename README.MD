@@ -100,7 +100,7 @@ The model is evaluated using:
 
 ```bash
 git clone https://github.com/sharmakash60/-Customer-Satisfaction.git
-cd customer-satisfaction
+cd Customer-Satisfaction
 ```
 
 ### 🔹 2. Install Dependencies
