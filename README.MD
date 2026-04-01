@@ -99,7 +99,7 @@ The model is evaluated using:
 ### 🔹 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/customer-satisfaction.git
+git clone https://github.com/sharmakash60/-Customer-Satisfaction.git
 cd customer-satisfaction
 ```
 
